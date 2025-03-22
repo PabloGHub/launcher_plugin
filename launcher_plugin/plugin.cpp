@@ -8,7 +8,7 @@
 #define PLUGIN_NAME "l_shake"
 
 #ifdef _WIN32
-    #define EXPORT __declspec(dllexport)
+     #define EXPORT __declspec(dllexport)
 #else
     #define EXPORT
 #endif
