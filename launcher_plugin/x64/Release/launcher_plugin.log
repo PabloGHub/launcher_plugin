@@ -1,0 +1,6 @@
+﻿  plugin.cpp
+C:\Repositorio\launcher_plugin\launcher_plugin\plugin.h(15,23): error C2375: 'OfxGetPlugin': nueva definición; vinculación distinta
+  (compilando archivo de origen "plugin.cpp")
+      C:\Repositorio\launcher_plugin\inclusion\OpenFX\include\openfx\ofxCore.h(558,22):
+      vea la declaración de 'OfxGetPlugin'
+  
